@@ -16,11 +16,12 @@
   </p>
 </div>
 
-<div align="center" style="margin: 1.5rem 0;">
-  <h3>
-    ⌛ Currently working on <strong>Donezy</strong> – join the beta and share your feedback!
-  </h3>
-</div>
+> [!IMPORTANT]
+> <div align="center" style="margin: 1.5rem 0;">
+>  <h3>
+>    ⌛ Currently working on <strong>Donezy</strong> – join the beta and share your feedback!
+>  </h3>
+> </div>
 
 
 <div align="center">
